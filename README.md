@@ -15,4 +15,6 @@ Demonstrated the following Apache beam features:
 2. Pipeline io
 3. Triggers
 4. Windowing
-5. Pardo 
+5. Pardo
+
+The output of the above are also uploaded in github
